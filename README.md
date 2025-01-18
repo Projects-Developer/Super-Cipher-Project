@@ -1,4 +1,4 @@
-# Super-Cipher-Project
+# Super Cipher Project
 The Super Cipher Project is a cryptographic system Project with Code, documents and Video Tutorial
 
 ![Super Cipher](https://github.com/user-attachments/assets/ca71c24a-3525-484f-8e76-1a545ce60fc7)
